@@ -149,7 +149,3 @@ Open-source project for educational purposes.
 <br>
 Rudra Prasad Purnapatre
 
-
-## Created By
-
-**Rudra Purnapatre**
